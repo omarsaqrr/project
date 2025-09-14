@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environments
+.env
+venv/
+.venv/
+
+# Docker
+pgdata/
+redisdata/
+*.pid
+
+# VS Code
+.vscode/
+
+# Byte-compiled
+*.egg-info/
+dist/
+build/
